@@ -26,17 +26,26 @@ Editar
 
 📦 techcorp-attrition-pipeline
 
-├── data/
-│   └── seus_dados.csv
+├── dados.csv
+
 ├── notebooks/
+
 │   ├── 1_hr_analise_estatistica.ipynb
+
 │   ├── 2_hr_analise_attrition.ipynb
+
 │   ├── 3_hr_feature_engineering.ipynb
+
 │   ├── 4_hr_modelagem_hr_attrition.ipynb
+
 │   └── 5_hr_valiacao_attrition.ipynb
+
 ├── main_pipeline.py
+
 ├── hr_attrition_pipeline.py
+
 ├── requirements.txt
+
 └── README.md
 
 ⚙️ Funcionalidades do Pipeline
