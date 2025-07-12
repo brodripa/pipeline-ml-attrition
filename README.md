@@ -1,7 +1,5 @@
 🔍 TechCorp Attrition Prediction Pipeline
 
-
-
 🧠 Contexto do Problema
 A TechCorp Brasil, uma das maiores empresas de tecnologia do país, com mais de 50.000 funcionários, enfrenta uma crise de rotatividade. Em apenas um ano, a taxa de attrition aumentou 35%, gerando prejuízos superiores a R$ 45 milhões.
 
