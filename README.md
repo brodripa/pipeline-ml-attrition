@@ -19,10 +19,13 @@ A empresa contratou um Cientista de Dados para desenvolver um sistema preditivo 
 Desenvolver um pipeline completo de Machine Learning para prever a rotatividade de funcionários, utilizando boas práticas de engenharia de atributos, tratamento de dados desbalanceados, e avaliação robusta de modelos preditivos.
 
 📁 Estrutura do Projeto
+
 bash
 Copiar
 Editar
+
 📦 techcorp-attrition-pipeline
+
 ├── data/
 │   └── seus_dados.csv
 ├── notebooks/
@@ -35,6 +38,7 @@ Editar
 ├── hr_attrition_pipeline.py
 ├── requirements.txt
 └── README.md
+
 ⚙️ Funcionalidades do Pipeline
 Análise estatística e exploração inicial dos dados
 
