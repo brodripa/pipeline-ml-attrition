@@ -13,10 +13,10 @@ Baixa na moral das equipes
 
 Atrasos em projetos estratégicos
 
-A empresa contratou um Cientista de Dados para desenvolver um sistema preditivo de alta performance que ajude o RH a identificar funcionários com alto risco de desligamento, permitindo ações preventivas eficazes.
+A empresa MackScience desenvolveu um sistema preditivo de alta performance que ajude o RH a identificar funcionários com alto risco de desligamento, permitindo ações preventivas eficazes.
 
 🎯 Objetivo
-Desenvolver um pipeline completo de Machine Learning para prever a rotatividade de funcionários, utilizando boas práticas de engenharia de atributos, tratamento de dados desbalanceados, e avaliação robusta de modelos preditivos.
+Um projeto em Machine Learning para prever a rotatividade de funcionários, utilizando boas práticas de engenharia de atributos, tratamento de dados desbalanceados, e avaliação robusta de modelos preditivos.
 
 📁 Estrutura do Projeto
 
