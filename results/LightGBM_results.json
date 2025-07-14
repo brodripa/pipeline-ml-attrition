@@ -1,0 +1,8 @@
+{
+  "model_name": "LightGBM",
+  "metrics": {
+    "accuracy": 0.62,
+    "precision": 0.27
+  },
+  "test_date": "2025-07-14T00:28:20.215250"
+}
