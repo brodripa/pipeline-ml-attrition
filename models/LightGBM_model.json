@@ -1,5 +1,9 @@
 {
   "model_name": "LightGBM",
+  "metrics": {
+    "accuracy": 0.62,
+    "precision": 0.27
+  },
   "best_params": {
     "n_estimators": 100
   },
@@ -40,5 +44,5 @@
     "YearsSinceLastPromotion",
     "YearsWithCurrManager"
   ],
-  "training_date": "2025-07-14T00:28:20.215250"
+  "training_date": "2025-07-14T20:54:11.613017"
 }
