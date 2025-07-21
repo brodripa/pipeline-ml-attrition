@@ -50,7 +50,6 @@ Todos os arquivos estão organizados no mesmo diretório:
 - Treinamento e comparação de múltiplos algoritmos:
   - Random Forest
   - Regressão Logística
-  - LightGBM (com e sem GPU)
 - Otimização de hiperparâmetros com Optuna
 - Relatórios e visualizações:
   - ROC Curve, Precision-Recall
@@ -200,7 +199,7 @@ Ação recomendada: Criar planos de carreira acelerados, envolver esse público 
 
 - Python 3.8+
 - 8GB RAM (mínimo), 16GB recomendado
-- GPU (opcional) para acelerar o LightGBM
+- CatBoost e XGBoost
 
 ---
 
